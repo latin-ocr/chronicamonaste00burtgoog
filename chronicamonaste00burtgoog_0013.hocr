@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./chronicamonaste00burtgoog_0013.png"; bbox 0 0 3519 5734; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1152 4733 2440 4892">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1152 4733 2440 4892">
+     <span class='ocr_line' id='line_1_1' title="bbox 1152 4733 2440 4841; baseline 0.002 -12"><span class='ocrx_word' id='word_1_1' title='bbox 1152 4776 1296 4830; x_wconf 71' lang='lat' dir='ltr'><strong>Eun</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1313 4786 1406 4831; x_wconf 78' lang='lat' dir='ltr'><strong>md</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1423 4733 1947 4837; x_wconf 50' lang='lat' dir='ltr'><strong>smnuwffisstssdffg„</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1964 4788 2106 4840; x_wconf 55' lang='lat' dir='ltr'>Mases</span> <span class='ocrx_word' id='word_1_5' title='bbox 2085 4788 2199 4841; x_wconf 69' lang='lat' dir='ltr'><strong>s’sty</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2217 4788 2326 4833; x_wconf 84' lang='lat' dir='ltr'><strong>Prin</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2330 4788 2440 4840; x_wconf 61' lang='lat' dir='ltr'><strong>tex-33</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1339 4837 2247 4892; baseline 0 -10"><span class='ocrx_word' id='word_1_8' title='bbox 1339 4838 1430 4882; x_wconf 78' lang='lat' dir='ltr'><strong>For</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1446 4838 1546 4882; x_wconf 81' lang='lat' dir='ltr'><strong>Hor</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1561 4837 1800 4892; x_wconf 65' lang='lat' dir='ltr'><strong>11⁸5oeth</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1817 4840 1965 4884; x_wconf 69' lang='lat' dir='ltr'><strong>Statio</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1938 4850 2078 4891; x_wconf 68' lang='lat' dir='ltr'><strong>onor&gt;</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 2094 4839 2247 4883; x_wconf 79' lang='lat' dir='ltr'><strong>Offioe.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3494 5136 3496 5680">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3494 5136 3496 5680">
+     <span class='ocr_line' id='line_1_3' title="bbox 3494 5136 3496 5680; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 3494 5136 3496 5680; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
